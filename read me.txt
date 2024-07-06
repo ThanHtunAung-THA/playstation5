@@ -1,0 +1,7 @@
+//user-index
+localhost/playstation5/
+//admin-index
+localhost/playstation5/admin
+
+admin
+1234
